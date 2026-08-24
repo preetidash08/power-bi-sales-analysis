@@ -1,7 +1,5 @@
 # power-bi-sales-analysis
 Power BI dashboard analyzing sales performance and regional profit margins
-# power-bi-sales-analysis
-Power BI dashboard analyzing sales performance and regional profit margins
 
 ## 📊 Executive Summary
 This Power BI project is an end-to-end Sales Performance Analytics Dashboard designed to provide a comprehensive view of business performance across sales, profitability, products, customers, sales representatives, regions, channels, and market segments.
